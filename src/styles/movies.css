@@ -1,0 +1,68 @@
+.discover-movie, .upcoming-movie, .now-playing {
+    width: 100%;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.section-title {
+    padding-left: 25px;
+    margin: 10px auto;
+    width: 95%;
+}
+
+movie-list {
+    display: flex;
+    margin: 0 auto 0 auto;
+    width: 95%;
+    padding: 5px;
+    overflow-x: auto;
+
+}
+
+
+movie-item {
+    display: flex;
+    margin: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+movie-item .movie-poster {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+movie-item .movie-poster:hover {
+    transform: scale(1.1);
+    transition: 200ms;
+    cursor: pointer;
+}
+
+.poster {
+    width: 200px;
+    height: 300px;
+    perspective: 600px;
+}
+
+.poster:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    border-radius: 10px;
+}
+
+
+
+@media screen and (max-width: 991px) {
+    movie-item .movie-poster:hover {
+        transform: none;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .movies-searched, .discover-movie, .upcoming-movie, .now-playing {
+        padding: 0px;
+    }
+}
