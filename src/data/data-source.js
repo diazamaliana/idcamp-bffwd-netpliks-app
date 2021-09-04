@@ -32,4 +32,20 @@ export default class DataSource {
         })
     }
 
+    static genreMovies(genre_id) {
+        this.genre_id = genre_id;
+        return fetch(`${BASE_URL}discover/movie?${API_ENDPOINT}&with_genres=${genre_id}&language=en-US&page=1`)
+        .then(response => {
+            return response.json();
+        })
+        .then(responseJson => {
+            if(responseJson.results) {
+                return Promise.resolve(responseJson.results);
+            } else {
+                return Promise.reject(`Error: `, results);
+            }
+        })
+    }
+    
+
 }
