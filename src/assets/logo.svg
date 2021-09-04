@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" height="100%" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 39863 9852"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#D61E25}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M0 9772l230 0c255,-126 955,-158 1298,-200 116,-320 -49,-4730 42,-5292l1725 5072 1673 -199 0 -9153 -1536 0 -26 5474 -1950 -5474 -1456 0 0 9772z"/>
+  <path class="fil0" d="M10669 0l-4224 0 0 9023 4202 -324c58,-219 22,-1179 21,-1486l-2697 167 0 -2282 2040 -26 0 -1518 -2040 26 11 -2054 2687 0 0 -1526z"/>
+  <path class="fil0" d="M16342 0l-4692 0 0 1525 1583 1 0 7046 1502 -17c154,-512 -61,-5729 30,-7028l1577 -1 0 -1526z"/>
+  <polygon class="fil0" points="24064,0 22538,0 22566,8483 26657,8474 26658,7264 24064,7251 "/>
+  <polygon class="fil0" points="29441,0 27943,0 27951,8485 29441,8572 "/>
+  <g id="_1476978021744">
+   <path class="fil0" d="M20900 5019l0 -1530 -2092 -16 6 -1945c372,-97 2184,43 2765,-34l6 -1494 -4262 0 0 8476 1497 0 0 -3465 2080 8z"/>
+   <rect class="fil0" x="20146" y="164" width="1430" height="4855"/>
+  </g>
+  <g id="_1476978023440">
+   <path class="fil0" d="M34447 9094l230 0 0 -32c-105,-132 -1738,-4260 -1869,-4565 -116,-271 158,-659 355,-1111 161,-369 1426,-3245 1514,-3346l-1691 0c-143,373 -978,2243 -1055,2328l-19 -44 0 4012c149,285 416,991 508,1214 142,345 369,998 547,1301l1480 243z"/>
+   <polygon class="fil0" points="31962,40 30465,40 30473,8914 31962,9020 "/>
+  </g>
+  <g id="_1476978023152">
+   <polygon class="fil0" points="39837,9852 35635,9151 35635,7732 38311,8145 38311,5102 36271,5071 36271,4142 39837,4142 "/>
+   <polygon class="fil0" points="39863,80 35641,80 35641,4302 39207,4302 39207,3634 37167,3660 37177,1606 39863,1606 "/>
+   <rect class="fil0" x="35641" y="3641" width="4196" height="1453"/>
+  </g>
+ </g>
+</svg>
