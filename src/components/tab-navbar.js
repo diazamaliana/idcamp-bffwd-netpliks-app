@@ -11,7 +11,7 @@ class Navbar extends HTMLElement {
         this.innerHTML = `
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <a href="#" class="navbar-brand">
-                <img src="../src/assets/logo.svg" height="28" alt="netfliks-app">
+                <img src="/src/assets/logo.svg" height="28" alt="netfliks-app">
             </a>
             <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
                 <span class="navbar-toggler-icon"></span>
