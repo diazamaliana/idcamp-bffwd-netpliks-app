@@ -37,7 +37,7 @@ This is a submission project for the [Front-End Web Development Fundamentals](ht
 ## Screenshoots
 <p align="center">
   <img src="src/assets/web-screen.png" width='500' alt='shoot on web'/>
-  <img src="src/assets/mobile-screen.png" width='189' alt='shoot on mobile' /> 
+  <img src="src/assets/mobile-screen.png" width='140' alt='shoot on mobile' /> 
 </p>
 
 
