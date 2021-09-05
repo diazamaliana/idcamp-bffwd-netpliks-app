@@ -1,4 +1,6 @@
 import "bootstrap/dist/js/bootstrap.min.js";
+import '@fortawesome/fontawesome-free/js/all.js';
+
 
 class SearchBar extends HTMLElement {
 
@@ -17,11 +19,7 @@ class SearchBar extends HTMLElement {
 
     render() {
         this.innerHTML = `
-        <style>
-           @import "../node_modules/@fortawesome/fontawesome-free/css/all.css";
-
-        }
-        </style>
+      
             <div class="input-group mb-4 border rounded-pill p-2 bg-light" style="margin-top:20px">
                 <input aria-describedby="button-addon3" class="form-control bg-light border-0" type="search" placeholder="What movie are you searching for?" id="queryMovie">
                 <div class="input-group-append">

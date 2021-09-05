@@ -1,4 +1,5 @@
 import "bootstrap/dist/css/bootstrap.min.css";
+import '@fortawesome/fontawesome-free/js/all.js';
 import "./styles/style.css";
 import "./styles/movies.css"
 import "./components/search-bar.js";
